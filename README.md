@@ -10,6 +10,7 @@ Name inspired by LXDE
 >
 > The other components used are listed here:
 > (copyright notices of those projects and subprojects also apply here)
+>
 > labwc
 >
 > waybar
