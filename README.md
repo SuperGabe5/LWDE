@@ -10,7 +10,10 @@ Name inspired by LXDE
 >
 > The other components used are listed here:
 > (copyright notices of those projects and subprojects also apply here)
-> *labwc
-> *waybar
-> *waystart
-> *wlroots
+> labwc
+>
+> waybar
+>
+> waystart
+>
+> wlroots
