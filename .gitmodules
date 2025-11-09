@@ -40,7 +40,7 @@
 	branch = master
 [submodule "lwde-session"]
 	path = lwde-session
-	url = <URL_HERE>
+	url = ../lwde-session
 	branch = master
 [submodule "lxqt-sudo"]
 	path = lxqt-sudo
