@@ -1,0 +1,23 @@
+CMAKE_REPOS=" \
+	labwc \
+	libqtxdg \
+	qtxdg-tools \
+	liblxqt \
+	lxqt-menu-data \
+	libfm-qt \
+	lxqt-themes \
+	pavucontrol-qt \
+	labwc-tweaks \
+	xfce4-notifyd \
+	lxqt-openssh-askpass \
+	lxqt-policykit \
+	lxqt-qtplugin \
+	lwde-session \
+	lxqt-sudo \
+	pcmanfm-qt \
+	ark \
+	libxfce4util \
+	wofi \
+	screengrab \
+	xfce4-terminal \
+	xdg-desktop-portal-lxqt"
