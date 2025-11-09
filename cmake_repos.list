@@ -12,6 +12,7 @@ CMAKE_REPOS=" \
 	lwde-session \
 	lxqt-sudo \
 	thunar \
+	waybar \
 	mousepad \
 	ark \
 	libxfce4util \
