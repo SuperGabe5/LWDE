@@ -66,9 +66,17 @@
 	path = waystart
 	url = https://github.com/Guibi1/Waystart.git
 	branch = master
+[submodule "waybar"]
+	path = waybar
+	url = https://github.com/Alexays/Waybar.git
+	branch = master
 [submodule "xfce4-terminal"]
 	path = xfce4-terminal
 	url = https://github.com/xfce-mirror/xfce4-terminal.git
+	branch = master
+[submodule "mousepad"]
+	path = mousepad
+	url = https://github.com/xfce-mirror/mousepad.git
 	branch = master
 [submodule "xdg-desktop-portal-gtk"]
 	path = xdg-desktop-portal-gtk
