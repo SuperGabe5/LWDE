@@ -1,0 +1,88 @@
+[submodule "labwc"]
+	path = labwc
+	url = https://github.com/labwc/labwc.git
+	branch = master
+[submodule "libqtxdg"]
+	path = libqtxdg
+	url = https://github.com/lxqt/libqtxdg.git
+	branch = master
+[submodule "qtxdg-tools"]
+	path = qtxdg-tools
+	url = https://github.com/lxqt/qtxdg-tools.git
+	branch = master
+[submodule "liblxqt"]
+	path = liblxqt
+	url = https://github.com/lxqt/liblxqt.git
+	branch = master
+[submodule "lxqt-themes"]
+	path = lxqt-themes
+	url = https://github.com/lxqt/lxqt-themes.git
+	branch = master
+[submodule "pavucontrol-qt"]
+	path = pavucontrol-qt
+	url = https://github.com/lxqt/pavucontrol-qt.git
+	branch = master
+[submodule "labwc-tweaks"]
+	path = labwc-tweaks
+	url = https://github.com/labwc/labwc-tweaks.git
+	branch = master
+[submodule "xfce4-notifyd"]
+	path = xfce4-notifyd
+	url = https://github.com/xfce-mirror/xfce4-notifyd.git
+	branch = master
+[submodule "lxqt-policykit"]
+	path = lxqt-policykit
+	url = https://github.com/lxqt/lxqt-policykit.git
+	branch = master
+[submodule "lxqt-qtplugin"]
+	path = lxqt-qtplugin
+	url = https://github.com/lxqt/lxqt-qtplugin.git
+	branch = master
+[submodule "lwde-session"]
+	path = lwde-session
+	url = ../lwde-session
+	branch = master
+[submodule "lxqt-sudo"]
+	path = lxqt-sudo
+	url = https://github.com/lxqt/lxqt-sudo.git
+	branch = master
+[submodule "thunar"]
+	path = thunar
+	url = https://github.com/xfce-mirror/thunar.git
+	branch = master
+[submodule "ark"]
+	path = ark
+	url = https://github.com/KDE/ark.git
+	branch = master
+[submodule "libxfce4util"]
+	path = libxfce4util
+	url = https://github.com/xfce-mirror/libxfce4util.git
+	branch = master
+[submodule "libxfce4util"]
+	path = libxfce4util
+	url = https://github.com/xfce-mirror/libxfce4ui.git
+	branch = master
+[submodule "waystart"]
+	path = waystart
+	url = https://github.com/Guibi1/Waystart.git
+	branch = master
+[submodule "waybar"]
+	path = waybar
+	url = https://github.com/Alexays/Waybar.git
+	branch = master
+[submodule "xfce4-terminal"]
+	path = xfce4-terminal
+	url = https://github.com/xfce-mirror/xfce4-terminal.git
+	branch = master
+[submodule "mousepad"]
+	path = mousepad
+	url = https://github.com/xfce-mirror/mousepad.git
+	branch = master
+[submodule "xdg-desktop-portal-gtk"]
+	path = xdg-desktop-portal-gtk
+	url = https://github.com/flatpak/xdg-desktop-portal-gtk.git
+	branch = master
+[submodule "xdg-desktop-portal-wlr"]
+	path = xdg-desktop-portal-wlr
+	url = https://github.com/emersion/xdg-desktop-portal-wlr.git
+	branch = master
